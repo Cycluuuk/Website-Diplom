@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\muroe\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\muroe\\.nuget\\packages"
+    ]
+  }
+}
